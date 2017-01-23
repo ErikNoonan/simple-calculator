@@ -4,5 +4,8 @@ button {
   border-color: black;
 }
 input {
-  align-items: center;
+  align-self: center;
+}
+h1{
+  text-align: center;
 }
